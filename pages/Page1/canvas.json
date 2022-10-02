@@ -139,6 +139,7 @@
               "defaultOptionValue": "Y",
               "animateLoading": true,
               "parentColumnSpace": 25.71875,
+              "dynamicTriggerPathList": [],
               "leftColumn": 4,
               "dynamicBindingPathList": [
                 {
@@ -165,7 +166,7 @@
               "widgetId": "6tptfxlptx",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
-              "label": "Label",
+              "label": "jan",
               "version": 1,
               "parentId": "0",
               "labelAlignment": "left",
